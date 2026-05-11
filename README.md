@@ -50,9 +50,7 @@ The project includes:
 - Salesforce reports and dashboards
 
 ## Conclusion
-This project strengthened my skills in CRM systems, sales analysis, dashboard creation, and business reporting using Salesforce, Google Sheets, and Excel. It also improved my ability to organize and analyze business data to support data-driven decisions.
-
-## Dashboard Preview
+This project strengthened my skills in CRM systems, sales analysis, dashboard creation, and business reporting using Salesforce, Google Sheets, and Excel. It also improved my ability to organize and analyze business data to support data-driven decision
 
 ## Author
 Lourdenie Louis
