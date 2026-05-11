@@ -1,5 +1,5 @@
 # CRM Sales Analysis – Salesforce + Google Sheets
-
+## Dashboard Preview
 ## Project Overview
 This project focused on analyzing sales performance, customer activity, and product trends using Salesforce CRM, Google Sheets, and Excel. The goal was to create a simple CRM sales management and reporting system while building dashboards and visualizations to support business decision-making.
 
